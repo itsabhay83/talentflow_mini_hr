@@ -60,10 +60,10 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/itsabhay83/entnt_assignment.git
-    cd entnt_assignment
+    git clone https://github.com/itsabhay83/talentflow_mini_hr
+    cd talentflow_mini_hr
     ```
-    *Commands: `git clone https://github.com/itsabhay83/entnt_assignment.git` and `cd entnt_assignment`*
+    *Commands: `git clone https://github.com/itsabhay83/talentflow_mini_hr.git` and `cd talentflow_mini_hr`*
 
 2.  **Install dependencies:**
     ```bash
